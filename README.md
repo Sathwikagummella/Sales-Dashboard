@@ -1,2 +1,3 @@
-# Sales-Dashboard
-This Sales Dashboard is created using Microsoft Excel to visualize and analyze sales data from 2014 to 2017. It includes key insights like sales by category, profit trends, customer count, and monthly sales. Interactive filters allow users to view data by year and product category. 
+# Sales-Dashboard (Interactive Dashboard creation using MS Excel)
+## Projects Objective
+This project is a dynamic Sales Dashboard built using Microsoft Excel, designed to analyze and visualize sales, profits, and customer data from 2014 to 2017.
