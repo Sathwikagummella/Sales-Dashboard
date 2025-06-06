@@ -41,6 +41,24 @@ This project features an interactive **Sales Dashboard** built in **Microsoft Ex
    - Optimized layout for clarity and ease of use.
      
 ## Dashboard
+![Screenshot](https://github.com/user-attachments/assets/cd4dab11-a5bf-40be-bbb9-2c316cd53fc1)
+
+ ## 📊 Project Insights
+
+- **Technology** consistently generated the highest profits from 2014 to 2017.
+- **Phones** and **Chairs** were the top-selling product categories.
+- **California** led in overall sales, followed by New York and Texas.
+- **Customer count** increased each year, peaking in 2017 with 3312 customers.
+- **Tamara Chand** and **Raymond Buch** were the most profitable customers.
+- **Sales peaked** during **September** and **November**, indicating strong seasonal trends.
+
+  ## ✅ Final Conclusion
+
+This project shows how Excel can be used to turn sales data into clear and useful insights. The dashboard helps understand which products and regions perform best, how profits and customers have grown over time, and when sales are highest. It is easy to use with filters and visuals, making it a helpful tool for business reporting and decision-making.
+
+
+
+
 
 
 
