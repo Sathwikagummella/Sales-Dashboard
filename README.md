@@ -14,7 +14,7 @@ This project features an interactive **Sales Dashboard** built in **Microsoft Ex
 - What are the monthly sales trends, and which months perform best?
 - How does each category (Furniture, Office Supplies, Technology) perform over time?
 
-- Dashboard Interaction <a href="
+- Dashboard Interaction <a href="https://github.com/Sathwikagummella/Sales-Dashboard/blob/main/Screenshot.png">View Dashboard</a>
 
 ##  Process
 
